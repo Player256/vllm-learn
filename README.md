@@ -11,7 +11,7 @@
     pip install -r requirements.txt
     ```
 
-3. [Create your own bot](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token) or go to [@mistral_vllm_bot](https://t.me/mistral_vllm_bot) on Telegram.**
+3. **[Create your own bot](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token) and use the generated token in TELEGRAM_API_TOKEN**
 
 4. **Run the application:**
     ```bash
